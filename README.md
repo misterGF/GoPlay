@@ -19,3 +19,5 @@ Some Golang code to learn some important concepts.
 * Console app with nice loaders
 * Scrapper
 * Windows app (sciter/electron based)
+* Testing framework
+* Web automation
